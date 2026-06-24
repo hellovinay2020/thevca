@@ -1,5 +1,5 @@
-﻿import { Routes, Route } from 'react-router-dom'
-import Home from './pages/Home'
+import { Routes, Route } from 'react-router-dom'
+import Home from './Pages/Home'
 import OurMission from './Pages/OurMission'
 import OurVision from './Pages/OurVision'
 import Director from './Pages/Director'
