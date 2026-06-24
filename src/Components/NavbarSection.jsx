@@ -4,6 +4,7 @@ import { Link } from 'react-router-dom'
 export default function NavbarSection() {
     return (
         <nav className="navbar navbar-expand-lg navbar-dark fixed-top">
+            
             <div className="container">
                 <Link className="navbar-brand" to="/">
                     <img src="assets/logo/logo.png" alt="Vijay Academy Logo" className="navbar-logo" />
